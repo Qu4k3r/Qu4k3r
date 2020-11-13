@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :computer: I’m a Software Development student on [Trybe] (https://www.betrybe.com/)
+### :computer: I’m a Software Development student on [Trybe](https://www.betrybe.com/)
 * 🌱 I’m currently learning Git & GitHub
 
 ### :incoming_envelope: Find me on:
