@@ -1,6 +1,6 @@
 ![trybe-github2](https://user-images.githubusercontent.com/70912502/99137895-78e98e00-260b-11eb-91c5-fe3ed3fdf60d.png)
 
-## Hello, world! 👋 I'm Lucas Neves better known as __Neves__ :snowflake:
+## Hello, world! 👋 My name is Lucas Neves but call me *Neves* :snowflake:
 <!--
 **Qu4k3r/Qu4k3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=Qu4k3r.Qu4k3r) [![Github](https://img.shields.io/github/followers/Qu4k3r?label=Followers&logo=Github)](https://github.com/Qu4k3r)
 
 ## :computer: I’m a Software Development student on [Trybe](https://www.betrybe.com/)
-* 🌱 I’m currently learning Git & GitHub
+* 🌱 I’m currently learning about Git & GitHub
 * 💬 Ask me about technology, games, movies, TV series and ~~politics~~
 * 🤔 I’m looking for someone to help me with Capture The Flag (CTF) games
 * ⚡ Fun facts: I like playing Overwatch and CTFs on [Try Hack Me](https://tryhackme.com/p/qu4kr)
