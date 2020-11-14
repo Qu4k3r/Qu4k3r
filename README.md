@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="https://www.linkedin.com/in/l-neves" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="mailto:meves0007@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a> 
+ <a href="mailto:neves0007@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a> 
  <a href="https://www.instagram.com/_nevs_k/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/instagram.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://twitter.com/NevsKabuloso" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/twitter.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
@@ -54,10 +54,9 @@ Here are some ideas to get you started:
  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Qu4k3r&count_private=true&show_icons=true&theme=tokyonight"> <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Qu4k3r&count_private=true&show_icons=true&theme=tokyonight" /> </a>
  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Qu4k3r&hide=php&theme=tokyonight"> <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Qu4k3r&hide=php&theme=tokyonight" /> </a>
 </div>
-<hr>
 
 ## :headphones: Now Playing:<br>
 <hr>
 <p align="center">
- <a href="https://open.spotify.com/user/l.n.o" target="_blank" title="Go ahead, Check me out!"> <img align="center" src="https://github-play.vercel.app/api/spotify" /> </a>
+ <a href="https://open.spotify.com/user/l.n.o/" target="_blank" title="Go ahead, Check me out!"> <img align="center" src="https://github-play.vercel.app/api/spotify" /> </a>
 </p>
