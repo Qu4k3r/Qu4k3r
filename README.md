@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## :computer: I’m a Software Development student on [Trybe](https://www.betrybe.com/)
 * 🌱 I’m currently learning Git & GitHub
-* 💬 Ask me about Technology, Games, movies, TV series and ~~politics~~
+* 💬 Ask me about technology, games, movies, TV series and ~~politics~~
 * 🤔 I’m looking for someone to help me with Capture The Flag (CTF) games
 * ⚡ Fun facts: I like playing Overwatch and CTFs on [Try Hack Me](https://tryhackme.com/p/qu4kr)
 
