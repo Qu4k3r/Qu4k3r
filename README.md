@@ -55,8 +55,4 @@ Here are some ideas to get you started:
  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Qu4k3r&hide=php&theme=tokyonight"> <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Qu4k3r&hide=php&theme=tokyonight" /> </a>
 </div>
 
-## :headphones: Now Playing:<br>
-<hr>
-<p align="center">
- <a href="https://open.spotify.com/user/l.n.o/" target="_blank" title="Go ahead, Check me out!"> <img align="center" src="https://github-play.vercel.app/api/spotify" /> </a>
-</p>
+
