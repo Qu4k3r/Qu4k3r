@@ -1,6 +1,6 @@
 ![trybe-github2](https://user-images.githubusercontent.com/70912502/99137895-78e98e00-260b-11eb-91c5-fe3ed3fdf60d.png)
 
-## Hello, world! 👋 My name is Lucas Neves but call me *Neves* :snowflake:
+## Hello, world! 👋 My name is Lucas Neves but you can call me *Neves* :snowflake:
 <!--
 **Qu4k3r/Qu4k3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
