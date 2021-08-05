@@ -1,4 +1,4 @@
-![trybe-github2](https://user-images.githubusercontent.com/70912502/99137895-78e98e00-260b-11eb-91c5-fe3ed3fdf60d.png) 
+![Wallpaper_04](https://user-images.githubusercontent.com/70912502/128423544-4cf2f650-c942-441a-ad02-126f41f827ef.png)
 
 ## Hello, world! 👋 My name is Lucas Neves but you can call me *Neves* :snowflake:
 <!--
