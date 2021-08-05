@@ -118,8 +118,7 @@ Here are some ideas to get you started:
 
   <!-- YARN -->
   <a href="https://yarnpkg.com/">
-    <img src="https://img.shields.io/badge/Yarn-3f4854?style=for-the-badge&logo=yarn&logoColor=2C8EBB
-"/>
+    <img src="https://img.shields.io/badge/Yarn-3f4854?style=for-the-badge&logo=yarn&logoColor=2C8EBB"/>
   </a>
 
   <!-- EXPRESS -->
@@ -132,10 +131,10 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href=https://github.com/anuraghazra/github-readme-stats>
-    <img height="180em" src=https://github-readme-stats.vercel.app/api?username=qu4k3r&show_icons=true&theme=radical />
+    <img height="180em" align="center" src=https://github-readme-stats.vercel.app/api?username=qu4k3r&show_icons=true&theme=radical />
   </a>
   <a href=https://github.com/anuraghazra/github-readme-stats>
-    <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=qu4k3r&layout=compact&theme=radical />
+    <img height="180em" align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=qu4k3r&layout=compact&theme=radical />
   </a>
 </div>
 
